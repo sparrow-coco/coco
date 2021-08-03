@@ -1,0 +1,32 @@
+{
+  "data_configure":{
+    "db_host":"9.135.9.96",
+    "db_port":3306,
+    "db_user":"skynet_spider",
+    "db_pwd":"m^23cjsp",
+    "fb_db_name":"lgame_fb",
+    "tw_db_name":"lgame_tt",
+    "chrome_drive_path":"chrome/chromedriver",
+    "headless":true,
+    "sleep_time":5,
+    "email_sender_pwd":"",
+    "fb_account":"",
+    "fb_pwd":"",
+    "facebook_url":[["https://www.facebook.com/PlayWildRift", "PlayWildRift"]],
+    "facebook_search_keywords":{
+        "en":["wild rift"],
+        "jp":["ワイルドリフト"],
+        "ko":["와일드 리프트"]
+    },
+    "tweet_url":["wildrifthub", "wildrift", "wildriftnews"],
+    "tweet_search_keywords":{
+        "en":["wild rift"],
+        "jp":["ワイルドリフト"],
+        "ko":["와일드 리프트"]
+    }
+  },
+  "optimization":{
+    "max_workers":4,
+    "timeout":7201
+  }
+}
