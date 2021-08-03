@@ -100,3 +100,4 @@ Windows：
 - “一键运行”所有爬虫可使用`superviser.py`。例：`python superviser.py`
 
 - 在`scripts/windows`目录下有`.ps1`和 `.cmd`脚本，可参考使用
+测试使用
