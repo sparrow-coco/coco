@@ -1,0 +1,9 @@
+bs4
+lxml
+pymysql
+selenium
+pytz
+requests
+cryptography
+dbutils
+python-dateutil
